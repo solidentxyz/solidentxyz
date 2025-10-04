@@ -68,27 +68,18 @@ flowchart TD
 ```
 ---
 
-## 🌐 Links  
-- Website → [solident.xyz](https://solident.xyz)  
-- Docs → [solident.gitbook.io](https://solident.gitbook.io)  
-- X → [@solidentxyz](https://x.com/solidentxyz)  
-- Telegram → [t.me/solidentxyz](https://t.me/solidentxyz)
+## Official Channels  
+
+**Website:** [solident.xyz](https://solident.xyz)  
+**Docs:** [solident.gitbook.io](https://solident.gitbook.io)  
+**X (Twitter):** [@solidentxyz](https://x.com/solidentxyz)  
+**Telegram:** [t.me/solidentxyz](https://t.me/solidentxyz)  
 
 ---
 
-> Powered by Solana. Designed for a future without seed phrases.
+> Solident is building the next generation of seedless, biometric DeFi on Solana.  
+> Secure by design. Face-verified. Zero trust. Limitless access.  
 
-<!--
-**solidentxyz/solidentxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+© 2025 **Solident Foundation** — Built on Solana
