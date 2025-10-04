@@ -1,11 +1,11 @@
-# Solident Foundation  
+## Solident Foundation  
 
-Solident is building a biometric-first wallet and identity layer on Solana:  
+Solident is building a biometric-first wallet and identity layer on Solana:
 a secure, seedless gateway to next-generation DeFi and digital identity.  
-
-Every wallet is bound to your face.  
-Every transaction verified locally.  
+Every wallet is encrypted and bound to your face.  
+Every transaction verified through biometric encryption.  
 No seed phrases. No passwords. No compromise.
+
 ---
 
 ## 🔐 Core Principles  
